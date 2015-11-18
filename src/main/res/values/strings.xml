@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermissionsSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="lbl_no">No</string>
+    lbl_yes
+</resources>
